@@ -1,3 +1,8 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+# ...
+[vars]
+ALLOWED_DOMAINS = "wildaboutfilm.co.uk, www.wildaboutfilm.co.uk, wildaboutfilm.pages.dev, plusmove.co.uk, www.plusmove.co.uk, plusmove-site.pages.dev"
+GITHUB_CLIENT_ID = "Ov23liNfDzAYZHwKz9of"
+# ...
